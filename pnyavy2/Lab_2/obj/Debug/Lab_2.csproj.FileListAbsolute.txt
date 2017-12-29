@@ -1,0 +1,6 @@
+D:\Labs_33\ПНяВУ\Labz2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\Labs_33\ПНяВУ\Labz2\Lab_2\bin\Debug\Lab_2.exe
+D:\Labs_33\ПНяВУ\Labz2\Lab_2\bin\Debug\Lab_2.pdb
+D:\Labs_33\ПНяВУ\Labz2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\Labs_33\ПНяВУ\Labz2\Lab_2\obj\Debug\Lab_2.exe
+D:\Labs_33\ПНяВУ\Labz2\Lab_2\obj\Debug\Lab_2.pdb
